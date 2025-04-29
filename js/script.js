@@ -52,4 +52,4 @@ function eraseText() {
 
 window.onload = typeWriter;
 
-// Subscrbe YouTube verlangid 
+// Subscrbe 
